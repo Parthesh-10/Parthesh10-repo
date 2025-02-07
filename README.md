@@ -1,4 +1,6 @@
 # Parthesh10-repo
-This is my first repo
+This is my first Repo
 <br>
- author parthesh uppal
+ Author Parthesh Uppal
+ <br>
+ I am 19 years old
